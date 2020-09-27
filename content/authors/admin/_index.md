@@ -2,7 +2,7 @@
 title: Mrinmaya Sachan
 role: Assistant Professor of Machine Learning and Natural Language Processing in
   the Computer Science Department at ETH Zürich.
-avatar_filename: mrinmaya_dp.png
+avatar_filename: avatar.png
 organizations:
   - name: ETH Zurich
     url: https://ethz.ch/en.html
